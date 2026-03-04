@@ -48,4 +48,3 @@ Feature importance analysis revealed that Sulfate, pH, and Hardness were the mos
 - Hyperparameter tuning
 - Cross-validation
 - Handling class imbalance using SMOTE
-- Deployment as a web application
